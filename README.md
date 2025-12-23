@@ -52,5 +52,8 @@ The analysis is based on **four datasets**:
 
 ---
 
+![dashboard](https://github.com/user-attachments/assets/73eb65f2-5d09-4381-b17c-eaa3190532e2)
+
+
 
 
