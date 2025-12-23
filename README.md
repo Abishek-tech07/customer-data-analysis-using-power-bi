@@ -15,10 +15,10 @@ The analysis is based on **four datasets**:
 ## 🗂️ Datasets Used
 | Dataset | Description |
 |-------|-------------|
-| customers.csv | Customer demographic and location details |
-| restaurants.csv | Restaurant details, ratings, and locations |
-| orders.csv | Order-level data including date, value, and status |
-| food_items.csv | Food category, price, and restaurant mapping |
+| customers.xlsx | Customer demographic and location details |
+| restaurants.xlsx | Restaurant details, ratings, and locations |
+| orders.xlsx | Order-level data including date, value, and status |
+| food_items.xlsx | Food category, price, and restaurant mapping |
 
 ---
 
